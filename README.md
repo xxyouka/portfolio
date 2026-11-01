@@ -6,7 +6,7 @@
 
 ## 内容
 
-- 封面故事：广生态猫猫、pet-id
+- 封面故事：校园猫猫、pet-id
 - 作品索引：果智瞳、software-test-helper、BitClock、danmu-player
 - 荣誉、关于、更多实验
 
@@ -25,11 +25,11 @@
 index.html          单页
 404.html            404
 assets/
-  cat-detail.png    广生态猫猫 · 猫咪详情页
+  cat-detail.png    校园猫猫 · 猫咪详情页
   pet-id/           pet-id 底库样本（6 张）
   og.jpg            社交分享图
 ```
 
 ## 许可
 
-站内文字与图片归 xx 所有，未经许可请勿转载。项目截图中的猫来自广生态猫猫与 pet-id 的校园猫底库。
+站内文字与图片归 xx 所有，未经许可请勿转载。项目截图中的猫来自校园猫猫与 pet-id 的校园猫底库。
